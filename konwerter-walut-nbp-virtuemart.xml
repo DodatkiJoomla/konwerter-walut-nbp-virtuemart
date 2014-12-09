@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.5/component-install.dtd">
+<install method="upgrade" type="component" version="1.5.0">
+    <name>Konwerter walut nbp dla virtuemart 1 / 2</name>
+    <creationDate>2012-02-15</creationDate>
+    <author>Dodatkijoomla.pl</author>
+    <copyright>Copyright (c) 2014 DodatkiJoomla.pl</copyright>
+    <license>GNU/GPL v2</license>
+    <authorEmail>kontakt@dodatkijoomla.pl</authorEmail>
+    <authorUrl>http://dodatkijoomla.pl</authorUrl>
+    <version>1.2.0</version>
+    <description>Konwerter walut NBP zainstalowany poprawnie!</description>
+    <installfile>instaluj.php</installfile>
+    <administration>
+    </administration>
+</install>
